@@ -4,8 +4,8 @@ import colorama
 from colorama import Fore,Back,Style     # importing colorama for font-color
 import sys 
 from termcolor import colored, cprint          
-from quiz import biodiversity,knowledge,computer,food,environment,indiaflims,plants,java,python,sports
-from bot import news_bot
+from questionsbot import biodiversity,knowledge,computer,food,environment,indiaflims,plants,java,python,sports
+from newsbot import news_bot
 colorama.init()
 
 """
